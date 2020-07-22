@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const bot = new Discord.Client();
 
-const token = 'Njk5NzAxMzA0NDIzMDg4MjM5.XpYRCQ.MIOHPpKYrhyiCfWC4J4D_3Vkcuw';
+const token = '';//TOKEN REMOVED
 
 bot.on('ready', () =>{
   console.log("Logged in");
